@@ -3,7 +3,7 @@ High school student learning to code in Kotlin and C#. Not wanting to release an
 Not fluent in any coding languages yet, as I am still learning.
 
 # Currently Learning: #
-Kotlin and C#
+Java, Kotlin and C#
 
 # Want to learn: #
 Kotlin, C#, Java, and JavaScript.
